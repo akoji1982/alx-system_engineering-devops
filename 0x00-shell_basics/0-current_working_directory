@@ -1,2 +1,2 @@
 i#!/bin/bash
-pwd \n
+su betty
